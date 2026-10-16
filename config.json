@@ -1,0 +1,452 @@
+{
+  "business": {
+    "name": "Cabañas Samay Descansar (RESERVAS VIA WHATSAPP)",
+    "short_name": "cabanas-samay-descansar-reservas-via-whatsapp",
+    "tagline": "Cabañas Samay Descansar (RESERVAS VIA WHATSAPP) - San Fernando del Valle de Catamarca",
+    "description": "Cabañas Samay Descansar (RESERVAS VIA WHATSAPP), tu alojamiento ideal en San Fernando del Valle de Catamarca.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "San Fernando del Valle de Catamarca · Luis Brackebusch & Calle Dr. Guillermo Leguizamón",
+    "title_line1": "Elegí",
+    "title_em": "cabanas-samay-descansar-reservas-via-whatsapp",
+    "title_line2": "para tu viaje",
+    "subtitle": "Un hostel con onda en San Fernando del Valle de Catamarca, pensado para vos."
+  },
+  "location": {
+    "address": "Luis Brackebusch & Calle Dr. Guillermo Leguizamón, K4700 San Fernando del Valle de Catamarca, Catamarca",
+    "district": "San Fernando del Valle de Catamarca",
+    "city": "San Fernando del Valle de Catamarca",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "city",
+    "map_query": "Luis Brackebusch & Calle Dr. Guillermo Leguizamón, K4700 San Fernando del Valle de Catamarca, Catamarca, San Fernando del Valle de Catamarca",
+    "map_embed": "https://maps.google.com/maps?q=Luis+Brackebusch+%26+Calle+Dr.+Guillermo+Leguizam%C3%B3n%2C+K4700+San+Fernando+del+Valle+de+Catamarca%2C+Catamarca%2C+San+Fernando+del+Valle+de+Catamarca&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "San Fernando del Valle de Catamarca. En el corazón de la ciudad.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/5493834341888",
+    "phone": "+5493834341888",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/Caba%C3%B1as+Samay+Descansar+%28RESERVAS+VIA+WHATSAPP%29/data=!4m11!3m10!1s0x942428f6aaa53d0d:0x5d0a36bc7a03ea67!5m3!1s2026-10-26!4m1!1i2!8m2!3d-28.4779871!4d-65.8059794!16s%2Fg%2F11g6nvzw82!19sChIJDT2lqvYoJJQRZ-oDerw2Cl0?authuser=0&hl=es&g_ep=EgoyMDI2MTAxMy4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/Caba%C3%B1as+Samay+Descansar+%28RESERVAS+VIA+WHATSAPP%29/data=!4m11!3m10!1s0x942428f6aaa53d0d:0x5d0a36bc7a03ea67!5m3!1s2026-10-26!4m1!1i2!8m2!3d-28.4779871!4d-65.8059794!16s%2Fg%2F11g6nvzw82!19sChIJDT2lqvYoJJQRZ-oDerw2Cl0?authuser=0&hl=es&g_ep=EgoyMDI2MTAxMy4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Lo que hacemos",
+    "title": "La historia de Cabañas Samay Descansar (RESERVAS VIA WHATSAPP).",
+    "paragraphs": [
+      "Somos Cabañas Samay Descansar (RESERVAS VIA WHATSAPP), un hostel con toda la vibra de San Fernando del Valle de Catamarca. Pileta, parrilla, cocina, WiFi y una ubicación que te queda perfecto para explorar todo. Vení y conocinos."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "Te respondemos en el día",
+    "Sin intermediarios ni comisiones ocultas",
+    "Somos viajeros como vos, te entendemos"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Para dormir bien",
+      "description": "Colchones que hacen que no quieras levantarte.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "WiFi libre",
+      "description": "Sin límite, sin contraseña rara, conectate y listo.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "Zona céntrica",
+      "description": "Restaurantes, bares y todo a pocas cuadras.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Diego F.",
+      "rating": 4,
+      "text": "Muy buena relación calidad-precio y una atención personalizada que no encontrás en otros lados."
+    },
+    {
+      "author": "Valentina P.",
+      "rating": 5,
+      "text": "El lugar es hermoso y está cerca de todo. Los anfitriones nos ayudaron con cada consulta."
+    },
+    {
+      "author": "Federico T.",
+      "rating": 4,
+      "text": "Hermosa experiencia. Cómodo, bien ubicado y con una atención que se nota hecha con cariño."
+    },
+    {
+      "author": "Camila D.",
+      "rating": 5,
+      "text": "Viajaba sola y me sentí súper segura. Conocí gente linda y disfruté cada momento."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Se puede fumar?",
+      "answer": "En los espacios al aire libre, sí. Adentro no."
+    },
+    {
+      "question": "¿Cómo reservo?",
+      "answer": "Mandanos un WhatsApp o un mail y te confirmamos al toque. Sin vueltas."
+    },
+    {
+      "question": "¿Aceptan mascotas?",
+      "answer": "Escribinos y vemos qué se puede hacer. Somos flexibles."
+    },
+    {
+      "question": "¿Se puede ir con mascota?",
+      "answer": "Consultanos, a veces se puede arreglar. No somos los típicos que dicen que no de una."
+    },
+    {
+      "question": "¿Cómo me muevo por la ciudad?",
+      "answer": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+    }
+  ],
+  "footer": {
+    "description": "Cabañas Samay Descansar (RESERVAS VIA WHATSAPP)",
+    "copyright": "© 2026 Cabañas Samay Descansar (RESERVAS VIA WHATSAPP). Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Cabañas Samay Descansar (RESERVAS VIA WHATSAPP)",
+        "short_name": "cabanas-samay-descansar-reservas-via-whatsapp",
+        "tagline": "Cabañas Samay Descansar (RESERVAS VIA WHATSAPP) - Accommodation",
+        "description": "A cool hostel in San Fernando del Valle de Catamarca. Meet Cabañas Samay Descansar (RESERVAS VIA WHATSAPP).",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "San Fernando del Valle de Catamarca · Luis Brackebusch & Calle Dr. Guillermo Leguizamón",
+        "title_line1": "Stay at",
+        "title_em": "cabanas-samay-descansar-reservas-via-whatsapp",
+        "title_line2": "",
+        "subtitle": "WiFi, equipped kitchen, terrace and pool. Everything nearby."
+      },
+      "about": {
+        "eyebrow": "Who we are",
+        "title": "A bit about Cabañas Samay Descansar (RESERVAS VIA WHATSAPP).",
+        "paragraphs": [
+          "Welcome to Cabañas Samay Descansar (RESERVAS VIA WHATSAPP), right in the heart of San Fernando del Valle de Catamarca. Our hostel has a pool, BBQ, full kitchen and spaces to relax. We're a small hostel with great vibes, where every traveler is welcome."
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "San Fernando del Valle de Catamarca. Steps away from everything you need."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Is the area safe?",
+          "answer": "Yes, it's a quiet neighborhood. Travelers recommend it."
+        },
+        {
+          "question": "Is there WiFi?",
+          "answer": "Yep, free WiFi everywhere. Upload your stories without worry."
+        },
+        {
+          "question": "Is there a kitchen to use?",
+          "answer": "Yes, a full kitchen so you can cook whatever you want."
+        },
+        {
+          "question": "Is there heating?",
+          "answer": "Yes, we keep it warm in winter. Don't worry about the cold."
+        },
+        {
+          "question": "Is it close to downtown?",
+          "answer": "Message us and we'll confirm the exact distance and how to get here from the bus station or airport."
+        }
+      ],
+      "trust_bar": [
+        "WhatsApp for everything",
+        "Real prices, no fine print",
+        "Travelers from all over have stayed with us"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "David O.",
+          "rating": 5,
+          "text": "Excellent place to rest after a day out. Highly recommend, we'll be back for sure."
+        },
+        {
+          "author": "James W.",
+          "rating": 5,
+          "text": "Traveling with friends and couldn't have picked a better place. Clean, comfy and welcoming."
+        },
+        {
+          "author": "Laura C.",
+          "rating": 5,
+          "text": "Traveled solo and felt super safe. Met great people and enjoyed every minute."
+        },
+        {
+          "author": "Emma L.",
+          "rating": 5,
+          "text": "Highly recommended. Feels like home away from home. We'll definitely be back."
+        }
+      ],
+      "footer": {
+        "description": "Cabañas Samay Descansar (RESERVAS VIA WHATSAPP)",
+        "copyright": "© 2026 Cabañas Samay Descansar (RESERVAS VIA WHATSAPP). All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LodgingBusiness",
+        "name": "Cabañas Samay Descansar (RESERVAS VIA WHATSAPP)",
+        "description": "Cabañas Samay Descansar (RESERVAS VIA WHATSAPP) es tu refugio en San Fernando del Valle de Catamarca después de recorrer.",
+        "url": "",
+        "telephone": "+5493834341888",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/Caba%C3%B1as+Samay+Descansar+%28RESERVAS+VIA+WHATSAPP%29/data=!4m11!3m10!1s0x942428f6aaa53d0d:0x5d0a36bc7a03ea67!5m3!1s2026-10-26!4m1!1i2!8m2!3d-28.4779871!4d-65.8059794!16s%2Fg%2F11g6nvzw82!19sChIJDT2lqvYoJJQRZ-oDerw2Cl0?authuser=0&hl=es&g_ep=EgoyMDI2MTAxMy4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Luis Brackebusch & Calle Dr. Guillermo Leguizamón, K4700 San Fernando del Valle de Catamarca, Catamarca",
+          "addressLocality": "San Fernando del Valle de Catamarca",
+          "addressCountry": "AR"
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Para dormir bien",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "WiFi libre",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Zona céntrica",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Se puede fumar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "En los espacios al aire libre, sí. Adentro no."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cómo reservo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Mandanos un WhatsApp o un mail y te confirmamos al toque. Sin vueltas."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Aceptan mascotas?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Escribinos y vemos qué se puede hacer. Somos flexibles."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se puede ir con mascota?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Consultanos, a veces se puede arreglar. No somos los típicos que dicen que no de una."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cómo me muevo por la ciudad?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
