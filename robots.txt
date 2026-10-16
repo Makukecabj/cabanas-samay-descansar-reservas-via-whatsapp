@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cabanas-samay-descansar-reservas-via-whatsapp.vercel.app/sitemap.xml
+Sitemap: https://cabanas-samay-descansar-reservas-vi.vercel.app/sitemap.xml
